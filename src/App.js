@@ -1,7 +1,11 @@
+import Join from './components/Join'
+import Login from './components/Login'
+
 function App() {
   return (
     <div>
-      hello world
+      <Join />
+      <Login />
     </div>
   );
 }
